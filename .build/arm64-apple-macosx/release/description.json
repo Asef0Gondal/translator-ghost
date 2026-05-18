@@ -1,0 +1,295 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.TranslatorGhost-arm64-apple-macosx-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/sources",
+      "importPath" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/CaptureEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/MainHUDView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/SelectionOverlayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslationEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslatorGhostApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "TranslatorGhost",
+      "moduleOutputPath" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/Modules/TranslatorGhost.swiftmodule",
+      "objects" : [
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/CaptureEngine.swift.o",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/MainHUDView.swift.o",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/SelectionOverlayView.swift.o",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslationEngine.swift.o",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhostApp.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "12",
+        "-serialize-diagnostics",
+        "-O",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "TranslatorGhost_main",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "translator_ghost"
+      ],
+      "outputFileMapPath" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/CaptureEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/MainHUDView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/SelectionOverlayView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslationEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhostApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/Modules/TranslatorGhost.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/CaptureEngine.swift",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/MainHUDView.swift",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/SelectionOverlayView.swift",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslationEngine.swift",
+        "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslatorGhostApp.swift"
+      ],
+      "tempsPath" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "TranslatorGhost" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "TranslatorGhost",
+      "-package-name",
+      "translator_ghost",
+      "-c",
+      "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/CaptureEngine.swift",
+      "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/MainHUDView.swift",
+      "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/SelectionOverlayView.swift",
+      "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslationEngine.swift",
+      "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslatorGhostApp.swift",
+      "-I",
+      "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "12",
+      "-serialize-diagnostics",
+      "-O",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "TranslatorGhost_main",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "translator_ghost",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "TranslatorGhost" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/CaptureEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/MainHUDView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/SelectionOverlayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslationEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslatorGhostApp.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/sources"
+    },
+    "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/CaptureEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/MainHUDView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/SelectionOverlayView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslationEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhostApp.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.product/Objects.LinkFileList"
+    },
+    "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

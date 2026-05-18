@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhost.d",
+    "object": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhost.o",
+    "swift-dependencies": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/primary.swiftdeps"
+  },
+  "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/CaptureEngine.swift": {
+    "object": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/CaptureEngine.swift.o",
+    "swiftmodule": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/CaptureEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/CaptureEngine.swiftdeps",
+    "diagnostics": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/CaptureEngine.dia"
+  },
+  "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/MainHUDView.swift": {
+    "object": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/MainHUDView.swift.o",
+    "swiftmodule": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/MainHUDView~partial.swiftmodule",
+    "swift-dependencies": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/MainHUDView.swiftdeps",
+    "diagnostics": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/MainHUDView.dia"
+  },
+  "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/SelectionOverlayView.swift": {
+    "object": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/SelectionOverlayView.swift.o",
+    "swiftmodule": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/SelectionOverlayView~partial.swiftmodule",
+    "swift-dependencies": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/SelectionOverlayView.swiftdeps",
+    "diagnostics": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/SelectionOverlayView.dia"
+  },
+  "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslationEngine.swift": {
+    "object": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslationEngine.swift.o",
+    "swiftmodule": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslationEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslationEngine.swiftdeps",
+    "diagnostics": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslationEngine.dia"
+  },
+  "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/Sources/TranslatorGhostApp.swift": {
+    "object": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhostApp.swift.o",
+    "swiftmodule": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhostApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhostApp.swiftdeps",
+    "diagnostics": "/Users/asifgondal/.gemini/antigravity/scratch/translator-ghost/.build/arm64-apple-macosx/release/TranslatorGhost.build/TranslatorGhostApp.dia"
+  }
+}
